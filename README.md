@@ -16,7 +16,5 @@
 Fuelled by an insatiable passion for the art of software craftsmanship, I unleash my creativity through elegant code, breathing life into extraordinary digital realms. 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FarrukhAdeel67&theme=react&hide_border=false" alt="yensubldg" /> 
-<br>
 
 
