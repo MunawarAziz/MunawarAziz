@@ -2,7 +2,7 @@
 
 <p align="center"><br/> 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnDoe)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MunawarAziz)
 
 <img src="https://img.shields.io/badge/linkedin-Munawar%20Aziz-blue?style=flat-square&logo=linkedin"> 
 </a> 
