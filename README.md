@@ -2,6 +2,8 @@
 
 <p align="center"><br/> 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnDoe)
+
 <img src="https://img.shields.io/badge/linkedin-Munawar%20Aziz-blue?style=flat-square&logo=linkedin"> 
 </a> 
 <a href="mailto:aziz09126789@gmail.com"> 
