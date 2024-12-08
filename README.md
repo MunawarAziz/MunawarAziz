@@ -6,8 +6,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MunawarAziz&langs_count=6&layout=compact&theme=radical)
 
-
-
 <img src="https://img.shields.io/badge/linkedin-Munawar%20Aziz-blue?style=flat-square&logo=linkedin"> 
 </a> 
 <a href="mailto:aziz09126789@gmail.com"> 
